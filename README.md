@@ -21,7 +21,7 @@ Use Closing Operation.
 <br><br><br><br><br>
 
 # PROGRAM:
-## Developed by   : S.SUMYUKTHA RANI
+## Developed by   : S.Sumyuktha Rani
 ## Register Number: 212220230050
 
 # Import the necessary packages
